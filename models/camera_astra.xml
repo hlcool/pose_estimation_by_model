@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<calibration_time>"2018年08月03日 星期五 14时39分38秒"</calibration_time>
+<nr_of_frames>24</nr_of_frames>
+<image_width>640</image_width>
+<image_height>480</image_height>
+<board_width>8</board_width>
+<board_height>6</board_height>
+<square_size>2.8000000864267349e-02</square_size>
+<!-- flags: +fix_k4 +fix_k5 -->
+<flags>6144</flags>
+<fisheye_model>0</fisheye_model>
+<camera_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    5.1550989803411096e+02 0. 3.2233168451034481e+02 0.
+    5.1430233019216382e+02 2.4632336186284235e+02 0. 0. 1.</data></camera_matrix>
+<distortion_coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    5.5041451160657055e-02 -2.7425178338552492e-01
+    4.0284255648806238e-04 -8.3658029184423917e-04
+    2.9489634507652124e-01</data></distortion_coefficients>
+<avg_reprojection_error>2.6925887969729428e-01</avg_reprojection_error>
+</opencv_storage>
